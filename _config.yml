@@ -23,7 +23,7 @@ repository               : "limhangsung/limhangsung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hangsunglim_profile.jpg"
   name             : "Hangsung Lim"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
